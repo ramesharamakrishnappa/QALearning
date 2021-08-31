@@ -1,0 +1,15 @@
+C:\Users\CXO8\source\repos\SpotifyApiTestNew\SpotifyApiTestNew\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\CXO8\source\repos\SpotifyApiTestNew\SpotifyApiTestNew\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\CXO8\source\repos\SpotifyApiTestNew\SpotifyApiTestNew\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\CXO8\source\repos\SpotifyApiTestNew\SpotifyApiTestNew\bin\Debug\netcoreapp2.1\SpotifyApiTestNew.deps.json
+C:\Users\CXO8\source\repos\SpotifyApiTestNew\SpotifyApiTestNew\bin\Debug\netcoreapp2.1\SpotifyApiTestNew.runtimeconfig.json
+C:\Users\CXO8\source\repos\SpotifyApiTestNew\SpotifyApiTestNew\bin\Debug\netcoreapp2.1\SpotifyApiTestNew.runtimeconfig.dev.json
+C:\Users\CXO8\source\repos\SpotifyApiTestNew\SpotifyApiTestNew\bin\Debug\netcoreapp2.1\SpotifyApiTestNew.dll
+C:\Users\CXO8\source\repos\SpotifyApiTestNew\SpotifyApiTestNew\obj\Debug\netcoreapp2.1\SpotifyApiTestNew.csproj.CoreCompileInputs.cache
+C:\Users\CXO8\source\repos\SpotifyApiTestNew\SpotifyApiTestNew\obj\Debug\netcoreapp2.1\SpotifyApiTestNew.AssemblyInfoInputs.cache
+C:\Users\CXO8\source\repos\SpotifyApiTestNew\SpotifyApiTestNew\obj\Debug\netcoreapp2.1\SpotifyApiTestNew.AssemblyInfo.cs
+C:\Users\CXO8\source\repos\SpotifyApiTestNew\SpotifyApiTestNew\bin\Debug\netcoreapp2.1\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\CXO8\source\repos\SpotifyApiTestNew\SpotifyApiTestNew\bin\Debug\netcoreapp2.1\SpotifyApiTestNew.pdb
+C:\Users\CXO8\source\repos\SpotifyApiTestNew\SpotifyApiTestNew\obj\Debug\netcoreapp2.1\SpotifyApiTestNew.dll
+C:\Users\CXO8\source\repos\SpotifyApiTestNew\SpotifyApiTestNew\obj\Debug\netcoreapp2.1\SpotifyApiTestNew.pdb
+C:\Users\CXO8\source\repos\SpotifyApiTestNew\SpotifyApiTestNew\obj\Debug\netcoreapp2.1\SpotifyApiTestNew.csprojAssemblyReference.cache
