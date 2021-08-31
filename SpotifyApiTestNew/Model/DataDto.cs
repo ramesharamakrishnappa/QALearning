@@ -12,7 +12,5 @@ namespace SpotifyApiTest.Model
         public string type { get; set; }
         public string uri { get; set; }
         public string name { get; set; }
-        public string name2 { get; set; }
-        public string name3 { get; set; }
-    }
+            }
 }
